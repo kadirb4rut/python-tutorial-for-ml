@@ -1,3 +1,3 @@
-## Tutorial
+## Python Tutorial for ML
 
-Veri Bilimi ve Makine Öğrenimi için gerekli olan NumPy, Pandas ve Matplotlib gibi kütüphanelerle birlikte Python programlama dili pratiklerinin bulunduğu herkese açık eğitici bir repodur.
+It shows how to use tools such as Pandas, NumPY, Matplotlib with Python.
